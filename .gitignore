@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 /target
 .DS_Store
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> e6842e2a9126d11bad396613caa119ae97dfd9bc
